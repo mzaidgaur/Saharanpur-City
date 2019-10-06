@@ -1,4 +1,4 @@
 # Saharanpur-City
-This is a website which shows all about the city Saharanpur.
+This is a website which shows all about the city of Saharanpur.
 
-This is build using html, css and JavaScript.
+This website is built using HTML, CSS and JavaScript.
